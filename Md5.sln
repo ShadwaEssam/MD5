@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Md5", "Md5\Md5.csproj", "{ADC86FC5-D30E-498B-A728-91105DF97AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC86FC5-D30E-498B-A728-91105DF97AAE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{ADC86FC5-D30E-498B-A728-91105DF97AAE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{ADC86FC5-D30E-498B-A728-91105DF97AAE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{ADC86FC5-D30E-498B-A728-91105DF97AAE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
